@@ -10,7 +10,7 @@ This project demonstrates end-to-end Business Intelligence workflow in Excel: fr
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard_preview.jpg)
+![Dashboard Preview](Dashboard preview.jpg)
 
 ## Features
 
